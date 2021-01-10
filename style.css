@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+}
+
+#colors{
+    width: 100%;
+}
+
+#colors > tbody > tr > td{
+  cursor: pointer;
+}
+
+#canvas {
+  cursor: crosshair;
+  background-color: white;
+  border-style: solid;
+}
